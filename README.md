@@ -8,6 +8,7 @@ External Requirements:
 - [ripgrep](https://github.com/BurntSushi/ripgrep#installation)
 
 <details><summary>WSL (Windows Subsystem for Linux)</summary>
+
 ```
 wsl --install
 wsl
